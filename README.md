@@ -12,7 +12,7 @@ Script randomly selects firstname and lastname from two txt files.
 
 #### Result
 <p align="center">
-  <img src="./img/resulr.png" width="738">
+  <img src="./img/result.png" width="738">
 </p>
 
 
